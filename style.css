@@ -1,0 +1,45 @@
+body
+{
+    font-family: 'Syne Mono', monospace;
+    background: rgb(209, 209, 209);
+}
+
+.header_div
+{
+    background: rgb(104, 104, 104);
+    color: white;
+}
+
+.header_div p
+{
+    font-family: 'Sansita Swashed', cursive;
+    color: rgb(218, 218, 218);
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size:  18px;
+    margin-top: 30px;
+    width: 120px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy_right_fotter
+{
+    position:fixed;
+    color: grey;
+    bottom:0;
+    width: 100%;
+    font-size: 23px;
+    background-color: ghostwhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
+
